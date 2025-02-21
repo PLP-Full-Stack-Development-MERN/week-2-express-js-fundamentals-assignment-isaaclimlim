@@ -29,7 +29,7 @@ Replace `<username>`, `<password>`, and `myDatabase` with your MongoDB credentia
 ## Running the Server
 Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 The API will be accessible at `http://localhost:3000`.
 
